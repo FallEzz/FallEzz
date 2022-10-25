@@ -2,19 +2,19 @@
 
 Yg Mau Sv Nomerku?
 
-wa.me/6285875158363
-
+wa.me/628588137087
+saya
 Minimal Kasih Cr kalo mau reupload😡
-Create By Dika Ardnt.
+Buat OlehNaufal
 Recode By Naze & ( Nama Lu )
-
+saya
 Kalau Sampai Ketemu Lagi Creator Bot
 Yg Reupload Tanpa Kasih Cr 
 Sc Akan Saya Encode
 
 Base : Hisoka
-Recode : Naze & ( Nama Lu )
-
+Recode : Naze & ( Naufal
+saya
 **/
 
 const fs = require('fs')
